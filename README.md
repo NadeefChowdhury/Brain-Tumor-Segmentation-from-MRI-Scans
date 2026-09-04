@@ -29,9 +29,9 @@ Quantitative tumor analysis
 Designed for real-world clinical usage
 
 ## Results
-Detection(YOLO):  
+### Detection(YOLO):  
 MAP50-90: 0.39, MAP50: 0.756  
-Segmentation(Ensemble UNet):  
+### Segmentation(Ensemble UNet):  
 Dice Scores:  
 ResUNet: 0.9237  
 Attention U-Net: 0.9180  
