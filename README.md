@@ -4,14 +4,14 @@
 This project presents an AI-powered pipeline for detecting and segmenting brain tumors from MRI scans. It combines object detection (YOLO) with advanced segmentation models (ResUNet, Attention UNet, UNet++) to produce accurate tumor analysis.
 
 ## Pipeline
--MRI Input
--Preprocessing
--Converting mask images to polygons identifiable by YOLO
--Tumor Detection (YOLO)
--Bounding boxes
--Cropping Region of Interest
--Tumor Segmentation (Ensemble UNets)
--Tumor Area Calculation
+-MRI Input  
+-Preprocessing  
+-Converting mask images to polygons identifiable by YOLO  
+-Tumor Detection (YOLO)  
+-Bounding boxes  
+-Cropping Region of Interest  
+-Tumor Segmentation (Ensemble UNets)  
+-Tumor Area Calculation  
 
 ## Key Features
 Hybrid detection + segmentation pipeline
