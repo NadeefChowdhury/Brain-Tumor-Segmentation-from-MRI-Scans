@@ -29,19 +29,18 @@ Quantitative tumor analysis
 Designed for real-world clinical usage
 
 ## Results
-Detection(YOLO):
-MAP50-90: 0.39, MAP50: 0.756
-Segmentation(Ensemble UNet):
-Dice Scores:
-ResUNet: 0.9237
-Attention U-Net: 0.9180
-UNet++: 0.9232
+Detection(YOLO):  
+MAP50-90: 0.39, MAP50: 0.756  
+Segmentation(Ensemble UNet):  
+Dice Scores:  
+ResUNet: 0.9237  
+Attention U-Net: 0.9180  
+UNet++: 0.9232  
 
 ## Future Work
-Multi-modal data integration
-Treatment recommendation system
-3D tumor segmentation
-Web/mobile deployment
+Multi-modal data integration  
+Treatment recommendation system  
+3D tumor segmentation  
 
 ## Tech Stack
 Python
