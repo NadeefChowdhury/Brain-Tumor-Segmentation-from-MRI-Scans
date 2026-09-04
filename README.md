@@ -4,7 +4,7 @@
 This project presents an AI-powered pipeline for detecting and segmenting brain tumors from MRI scans. It combines object detection (YOLO) with advanced segmentation models (ResUNet, Attention UNet, UNet++) to produce accurate tumor analysis.
 
 ## Dataset
-A dataset containing images of 3064 brain MRI scans and masks of tumors from those scans
+A dataset containing images of 3064 brain MRI scans and masks of tumors from those scans:  
 [Brain Tumor Dataset](https://www.kaggle.com/datasets/nikhilroxtomar/brain-tumor-segmentation)
 
 ## Web App
