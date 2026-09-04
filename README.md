@@ -8,7 +8,7 @@ A dataset containing images of 3064 brain MRI scans and masks of tumors from tho
 [Brain Tumor Dataset](https://www.kaggle.com/datasets/nikhilroxtomar/brain-tumor-segmentation)
 
 ## Web App
-The Web App can be used to give an MRI scan of the brain as input to detect and segment tumor
+The Web App can be used to give an MRI scan of the brain as input to detect and segment tumor:  
 [Brain Tumor Detection and Segmentation](https://huggingface.co/spaces/Nadeef/BrainTumor)
 
 <img width="1899" height="935" alt="Screenshot 2026-09-04 163209" src="https://github.com/user-attachments/assets/3e076c79-fb77-4756-bcb0-29a56178e0db" />
