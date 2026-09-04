@@ -5,7 +5,9 @@ This project presents an AI-powered pipeline for detecting and segmenting brain 
 
 ## Dataset
 A dataset containing images of 3064 brain MRI scans and masks of tumors from those scans:  
-[Brain Tumor Dataset](https://www.kaggle.com/datasets/nikhilroxtomar/brain-tumor-segmentation)
+[Brain Tumor Dataset](https://www.kaggle.com/datasets/nikhilroxtomar/brain-tumor-segmentation)  
+Train Images: 2700  
+Validation Images: 364
 
 ## Web App
 The Web App can be used to give an MRI scan of the brain as input to detect and segment tumor:  
