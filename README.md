@@ -14,7 +14,7 @@ The Web App can be used to give an MRI scan of the brain as input to detect and 
 <img width="1899" height="935" alt="Screenshot 2026-09-04 163209" src="https://github.com/user-attachments/assets/3e076c79-fb77-4756-bcb0-29a56178e0db" />
 
 ## Note:
-The files in "Notebooks and Codes" contain the codes for detection and segmentation. The files "app.py", "predict.py" and "visualize.py" are used for deploying via Hugging Face
+The files in "Notebooks and Codes" contain the codes for detection and segmentation. The files "app.py", "predict.py" and "visualize.py" are used for deploying via Hugging Face.
 
 ## Pipeline
 -MRI Input  
