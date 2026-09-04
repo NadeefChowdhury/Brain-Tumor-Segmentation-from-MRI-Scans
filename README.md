@@ -25,10 +25,10 @@ The files in "Notebooks and Codes" contain the codes for detection and segmentat
 -Tumor Segmentation (Ensemble UNets) on the cropped images and Tumor Area Calculation  
 
 ## Key Features
-Hybrid detection + segmentation pipeline
-Ensemble learning for robustness
-Quantitative tumor analysis
-Designed for real-world clinical usage
+Hybrid detection + segmentation pipeline  
+Ensemble learning for robustness  
+Quantitative tumor analysis  
+Designed for real-world clinical usage  
 
 ## Results
 ### Detection(YOLO):  
