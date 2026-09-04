@@ -1,0 +1,6 @@
+path: D:/Python codes/Tumor segment YOLO/tumors
+train: images/train 
+val: images/val  
+
+nc: 1
+names: ['tumor']
