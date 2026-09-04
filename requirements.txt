@@ -1,0 +1,7 @@
+gradio
+torch
+torchvision
+opencv-python-headless
+numpy
+ultralytics
+huggingface_hub
