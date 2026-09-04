@@ -10,8 +10,7 @@ This project presents an AI-powered pipeline for detecting and segmenting brain 
 -Tumor Detection (YOLO)  
 -Bounding boxes  
 -Cropping Region of Interest  
--Tumor Segmentation (Ensemble UNets)  
--Tumor Area Calculation  
+-Tumor Segmentation (Ensemble UNets) and Tumor Area Calculation  
 
 ## Key Features
 Hybrid detection + segmentation pipeline
