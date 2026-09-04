@@ -20,8 +20,8 @@ The files in "Notebooks and Codes" contain the codes for detection and segmentat
 -MRI Input  
 -Preprocessing  
 -Converting mask images to polygons identifiable by YOLO  
--Tumor Detection (YOLO)
--Cropping the images down to the regions of interest detected by YOLO  
+-Training the YOLO model on the images
+-Tumor Detection (YOLO): Cropping the images down to the regions of interest detected by YOLO  
 -Tumor Segmentation (Ensemble UNets) on the cropped images and Tumor Area Calculation  
 
 ## Key Features
